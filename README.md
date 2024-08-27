@@ -40,4 +40,4 @@
 # Embedded sensors and displays for RP2040
 - DHT11-Digitial temperature and humidity sensor
 - WEA012864D-OLED display
--L-154A4SUREQBFZGEW- RGB LED
+- L-154A4SUREQBFZGEW- RGB LED
