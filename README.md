@@ -19,7 +19,7 @@
 - **VideoCore IV 3D graphics core**
 
 <p align="center">
-  <img width="600" height="330" src="https://github.com/user-attachments/assets/raspberry-pi-3-model-b.jpg">
+  <img width="608" height="410" src="https://github.com/DochevM/Raspberry_Pi_3/blob/main/Documents/2525225-40-removebg-preview.png">
 </p>
 
 # BCM2837 SoC
@@ -40,4 +40,4 @@
 # Embedded sensors and displays for RP2040
 - DHT11-Digitial temperature and humidity sensor
 - WEA012864D-OLED display
--L-154A4SUREQBFZGEW- RGB LED
+- L-154A4SUREQBFZGEW- RGB LED
