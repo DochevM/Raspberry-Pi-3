@@ -16,3 +16,4 @@ Temp:27.5 C    Humidity: 37.4%
 | GND                 | GND                |
 
 ![alt text](https://github.com/DochevM/Raspberry_Pi_3/blob/main/Documents/GPIO_diagram.jpg)
+![alt text](https://github.com/DochevM/Raspberry_Pi_3/blob/main/Documents/DHT_pinout.png)
