@@ -16,6 +16,7 @@
 
 
 ## Node-Red project
+### Just copy and import this project to Node-Red
 ```
 [
     {
