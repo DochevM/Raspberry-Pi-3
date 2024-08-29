@@ -21,7 +21,9 @@
 <details>
 
 <summary>Here is the code for the project</summary>
+
 ```
+
 [
     {
         "id": "7bb27b7ae089c6e5",
