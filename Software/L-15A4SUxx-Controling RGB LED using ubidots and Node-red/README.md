@@ -16,7 +16,8 @@
 
 
 ## Node-Red project
-### Just copy and import this project to Node-Red
+<details>
+<summary>### Just copy and import this project to Node-Red</summary>
 ```
 [
     {
@@ -428,3 +429,5 @@
 ]
 
 ```
+
+</details>
