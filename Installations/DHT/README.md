@@ -37,8 +37,12 @@ python3 -m pip install adafruit-circuitpython-dht
 
 Making the file file, where the code will be placed:
 ```
-nano ~/dht22/humidity.py
+nano ~/dht22/DHT22.py
 ```
 
 ### The code can be found in [my projects folder](https://github.com/DochevM/Raspberry_Pi_3/tree/main/Software/DHT22-Digital%20thermometer%20and%20humidity%20meter)
 
+Then Run the code with the following comand:
+```
+python DHT22.py
+```
