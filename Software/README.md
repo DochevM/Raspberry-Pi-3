@@ -4,7 +4,7 @@
 This README provides information about the libraries used with various sensors on a Raspberry Pi 3. The focus is on the DHT22 digital temperature and humidity sensor.
 
 ## DHT22 - Digital Temperature and Humidity Sensor
-[DHT22](https://store.comet.bg/Catalogue/Product/50013/) (or AM2302) is a low-cost digital temperature and humidity sensor with better accuracy and a broader range than the DHT11.
+[DHT22](https://github.com/DochevM/Raspberry_Pi_3/blob/main/Documents/AM2302(DHT22).PDF) (or AM2302) is a low-cost digital temperature and humidity sensor with better accuracy and a broader range than the DHT11.
 
 ### Libraries for DHT22
 - [Adafruit_CircuitPython_DHT](https://github.com/adafruit/Adafruit_CircuitPython_DHT)  
@@ -20,7 +20,7 @@ The [L-154A4SUREQBFZGEW](https://github.com/DochevM/Raspberry_Pi_3/blob/main/Doc
   A Python library that provides a simple interface for controlling GPIO devices, including LEDs, switches, and more.
 
 ## WEA012864DWPP3N00003 - OLED Display
-[WEA012864DWPP3N00003](https://store.comet.bg/Catalogue/Product/51127/) is a 0.96-inch COG OLED display with a resolution of 128x64 pixels.
+[WEA012864DWPP3N00003](https://github.com/DochevM/Raspberry_Pi_3/blob/main/Documents/WEA012864D.PDF) is a 0.96-inch COG OLED display with a resolution of 128x64 pixels.
 
 ### Libraries for WEA012864DWPP3N00003
 - [Pillow](https://github.com/python-pillow/Pillow)  
